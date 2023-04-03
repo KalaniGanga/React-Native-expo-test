@@ -2,12 +2,12 @@
 
 ## Get started
 
-1 clone the project repo in your local environment
+1. Clone the project repo in your local environment.
 
-2 Rename env.example file to .env
+2. Rename the env.example file to .env .
 
-3 Create firebase account and add firebase credentiols and google api key to .env file
+3. Create a Firebase account and add Firebase credentials and a Google API key to the.env file.
 
-4 Install dependencies with npm or yarn . `npm install`
+4. Install dependencies with npm or yarn. `npm install`
 
-5 for start the project `npm expo start`
+5. To start the project: `npm expo start`
