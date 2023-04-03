@@ -91,6 +91,21 @@ const commonStyles = StyleSheet.create({
     borderRadius: 50,
     backgroundColor: "#fff",
   },
+  textInputContainer:{
+    marginTop: 28,
+    marginBottom: 5,
+    width: "90%",
+  },
+  textInputTitle:{
+    color: theme.colors.secondary,
+    marginBottom: 10,
+  },
+  textInputTextBox:{
+    backgroundColor: theme.colors.primary,
+    padding: 8,
+    borderWidth: 1,
+    height: 48,
+  }
 });
 
 export default commonStyles;
